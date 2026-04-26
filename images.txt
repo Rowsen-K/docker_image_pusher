@@ -1,1 +1,2 @@
-ghcr.io/aeon-7/vllm-spark-omni-q36:v1.2
+#ghcr.io/aeon-7/vllm-spark-omni-q36:v1.2
+ghcr.io/spark-arena/dgx-vllm-eugr-nightly:latest
