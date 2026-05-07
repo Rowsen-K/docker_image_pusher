@@ -1,3 +1,4 @@
 #ghcr.io/aeon-7/vllm-spark-omni-q36:v1.2
 #ghcr.io/spark-arena/dgx-vllm-eugr-nightly:latest
-docker.io/vllm/vllm-openai@sha256:a6cb8f72c66a419f2a7bf62e975ca0ba33dd4097b6b26858d166647c4cf4ba1f
+#docker.io/vllm/vllm-openai@sha256:a6cb8f72c66a419f2a7bf62e975ca0ba33dd4097b6b26858d166647c4cf4ba1f
+docker.io/avarok/atlas-gb10:latest
